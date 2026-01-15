@@ -1,16 +1,14 @@
 {
-  "name": "WantMyMTV",
-  "short_name": "MTV App",
-  "start_url": "index.html",
+  "name": "DarioMusiqueta",
+  "short_name": "DarioMusi",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png",
-      "sizes": "1000x742",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ]
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "icons": [{
+    "src": "https://via.placeholder.com/192/2196F3/FFFFFF?text=DM",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
 }
